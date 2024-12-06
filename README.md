@@ -5,7 +5,7 @@
 ### Описание
 
 Данный скрипт предназначен для автоматизации процесса получения информации о модемах, используя Selenium для веб-автоматизации и Beautiful Soup для парсинга данных. Скрипт получает локальные IP-адреса модемов и извлекает важные данные, такие как модель, серийный номер и мобильный номер, сохраняет их в лог-файл и Excel-таблицу.
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение](https://www.mozilla.org/media/protocol/img/logos/firefox/logo.fedb52c912d6.svg "Логотип Mozilla Firefox")
 ### Условия эксплуатации
 
 ### Требования к окружению
