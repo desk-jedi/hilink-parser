@@ -73,7 +73,7 @@ def create_table(data_sheet) -> None:
     sheet.title = "Данные модемов"  # Устанавливаем название листа.
 
     headers = [
-        "IP адрес",
+        "IP-адрес",
         "Модель",
         "Серийный номер",
         "IMEI",
