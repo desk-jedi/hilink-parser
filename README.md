@@ -42,16 +42,16 @@ python -m pip install --upgrade pip
 
 ```bash
 pip install bs4
-   pip install lxml
-   pip install selenium
-   pip install openpyxl
+pip install lxml
+pip install selenium
+pip install openpyxl
 ```
 
 Рекомендуется установить браузер Mozilla Firefox, так как он продемонстрировал свою надежность в процессе тестирования работы скрипта. Скачать Mozilla Firefox можно с официального сайта.
 
 ### 3. Использование
 
-- Скопируйте код скрипта в файл с расширением .py, например, parser.py.
+- Скопируйте код скрипта в файл с расширением .py, например, **parser.py**.
 
 - Запустите скрипт в командной строке:
 
